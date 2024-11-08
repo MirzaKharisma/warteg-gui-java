@@ -1,0 +1,4 @@
+1|Sambal Goreng Kentang|10|5000|50000
+2|Sop Ayam|15|10000|150000
+3|Ikan Bawal|15|7500|112500
+4|Nasi Putih|45|3000|135000
